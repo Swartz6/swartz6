@@ -2,7 +2,7 @@
 <h3 align="center">Security Researcher | Exploring the dark to protect the light</h3>
 
 <p align="center">
-  <img src="./banner.jpg" width="100%" />
+  <img src="./wide-banner.jpg" width="100%" />
 </p>
 
 ## About Me
